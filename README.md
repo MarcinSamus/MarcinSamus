@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 
 I'm an aspiring data analyst passionate about extracting insights from data and turning them into impactful stories.
 <br/>I build projects to learn by doing — from exploratory data analysis to machine learning models and automation tools
+<br/> I am currently a Computer Science student at Warsaw University of Life Sciences
 
 
 #### 📚 Projects:
